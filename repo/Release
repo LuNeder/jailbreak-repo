@@ -1,0 +1,12 @@
+Origin: LuNeder's Repo
+Label: LuNeder's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: LuNeder's jailbreak tweaks
+
+SHA256:
+ 339460ef3986e94974c9a882cd873d09e13deb31cc64da59d327ee73ca3bbefa 1178 Packages.bz2
+ 2f5f8df58bafbc30534029098a13327c9a483f387416eb833fd17115f66b14d5 1108 Packages.xz
