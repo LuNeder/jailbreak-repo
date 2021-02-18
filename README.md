@@ -5,4 +5,6 @@ Check my jailbreak repo: [https://luneder.github.io/repo/](https://luneder.githu
 
 Check my GitHub: [https://github.com/LuNeder](https://github.com/LuNeder)
 
+I have a game in which the main character is my Physics teacher (LuNeder/Cajuru): [https://bit.ly/DiegVet](https://bit.ly/DiegVet)
+
 My Bitcoin Wallet: 1Cu56CiezosNEAPtDVHbLpvx5UFiCjbEkF
